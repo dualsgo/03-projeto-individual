@@ -1,8 +1,7 @@
 {
-    "sci-fi": [
+    "filmes": [
         {
             "id": 1,
-            "id-categoria": 1,
             "titulo": "No Limite do Amanhã",
             "direcao": "Doug Liman",
             "ano": "2014",
@@ -10,161 +9,11 @@
         },
         {
             "id": 2,
-            "id-categoria": 1,
-            "titulo": "Oblivion",
-            "direcao": "Joseph Kosinski",
-            "ano": "2013",
-            "sinopse": "Em 2077, Jack Harper é o responsável pela manutenção de equipamentos de segurança em um planeta Terra irreconhecível, que foi destruído por uma raça alienígena. O que restou da humanidade vive hoje em uma colônia lunar, para onde Jack irá assim que terminar seu trabalho na Terra. Porém um dia, ele encontra a espaçonave de uma mulher e, ao conhecê-la, tudo o que Jack sabe até então é posto em dúvida, iniciando-se uma jornada em que ele precisará descobrir o que realmente aconteceu no passado."
-        },
-        {
-            "id": 3,
-            "id-categoria": 1,
-            "titulo": "Interestelar",
-            "direcao": "Christopher Nolan",
-            "ano": "2014",
-            "sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar."
-        },
-        {
-            "id": 4,
-            "id-categoria": 1,
-            "titulo": "Prometheus",
-            "direcao": "Ridley Scott",
-            "ano": "2012",
-            "sinopse": "Este prelúdio do filme Alien conta a história de uma equipe de cientistas que embarca em uma jornada espacial para descobrir a verdade sobre a origem da raça humana. No planeta de destino, eles encontram criaturas poderosas e revelações assustadoras."
-        },
-        {
-            "id": 5,
-            "id-categoria": 1,
-            "titulo": "Passageiros",
-            "direcao": "Morten Tyldum",
-            "ano": "2017",
-            "sinopse": "Dois passageiros acordam 90 anos antes do tempo programado durante uma viagem de rotina no espaço devido a um mau funcionamento de suas cabines. Sozinhos, Jim e Aurora começam a estreitar o seu relacionamento. Entretanto, a paz é ameaçada quando eles descobrem que a nave está correndo um sério risco e que eles são os únicos capazes de salvar os mais de cinco mil colegas em sono profundo."
-        }
-    ],
-    "fantasia": [
-        {
-            "id": 1,
-            "id-categoria": 2,
-            "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
-            "direcao": "Andrew Adamson",
-            "ano": "2005",
-            "sinopse": "Durante os bombardeios da Segunda Guerra Mundial de Londres, quatro irmãos ingleses são enviados para uma casa de campo onde eles estarão seguros. Um dia, Lucy encontra um guarda-roupa que a transporta para um mundo mágico chamado Nárnia. Depois de voltar, ela logo volta a Nárnia com seus irmãos, Peter e Edmund, e sua irmã, Susan. Lá eles se juntam ao leão mágico, Aslan, na luta contra a Feiticeira Branca."
-        },
-        {
-            "id": 2,
-            "id-categoria": 2,
-            "titulo": "Harry Potter e o Prisioneiro de Azkaban",
-            "direcao": "Alfonso Cuarón",
-            "ano": "2004",
-            "sinopse": "É o início do terceiro ano na escola de bruxaria Hogwarts. Harry, Ron e Hermione têm muito o que aprender. Mas uma ameaça ronda a escola e ela se chama Sirius Black. Após doze anos encarcerado na prisão de Azkaban, ele consegue escapar e volta para vingar seu mestre, Lord Voldemort. Para piorar, os Dementores, guardas supostamente enviados para proteger Hogwarts e seguir os passos de Black, parecem ser ameaças ainda mais perigosas."
-        },
-        {
-            "id": 3,
-            "id-categoria": 2,
-            "titulo": "As Crônicas de Spiderwick",
-            "direcao": "Mark Waters",
-            "ano": "2008",
-            "sinopse": "Dos três filhos de Grace, Jared sempre foi considerado o causador de problemas. Assim, quando coisas estranhas acontecem depois que a família se muda para uma propriedade arruinada, a irmã Mallory, o irmão gêmeo Simon e a mãe pensam que Jared é o responsável por tudo. Na verdade, eles descobrem que criaturas mágicas que vagueiam pelas terras querem o livro mágico que Jared encontrou, um guia sobre criaturas fantásticas, escrito por Arthur Spiderwick."
-        },
-        {
-            "id": 4,
-            "id-categoria": 2,
-            "titulo": "Jumanji",
-            "direcao": "Joe Johnston",
-            "ano": "1996",
-            "sinopse": "Alan Parrish desapareceu quando era menino e ninguém acredita na história de seu amigo de que ele foi sugado por um jogo de tabuleiro. Vinte e seis anos depois, duas crianças acham o jogo no sótão e, quando começam a jogar, Alan é libertado. Mas a disputa ainda não acabou e Alan precisa terminar antes de ser realmente solto."
-        },
-        {
-            "id": 5,
-            "id-categoria": 2,
-            "titulo": "A Fantástica Fábrica de Chocolate",
-            "direcao": "Tim Burton",
-            "ano": "2005",
-            "sinopse": "Baseado no conto de Roald Dahl, este cômico e fantástico filme segue o jovem Charlie Bucket e seu avô Joe. Eles se juntam a um pequeno grupo de ganhadores de uma competição, os quais vão para um passeio na mágica e misteriosa fábrica do excêntrico Willy Wonka. Ajudado por seus anões trabalhadores, Wonka esconde uma surpresa para durante o passeio."
-        }
-    ],
-    "herois": [
-        {
-            "id": 1,
-            "id-categoria": 3,
-            "titulo": "Batman: O Cavaleiro das Trevas",
-            "direcao": "Christopher Nolan",
-            "ano": "2008",
-            "sinopse": "Com a ajuda de Jim Gordon e Harvey Dent, Batman tem mantido a ordem na cidade de Gotham. Mas um jovem e anárquico criminoso conhecido como Coringa ganha força e decide instaurar um verdadeiro caos na cidade. O justiceiro será testado psicologicamente e fisicamente como nunca fora antes em um confronto bastante pessoal. Cabe a Batman encontrar uma maneira de deter o sádico vilão antes que mais vidas sejam perdidas."
-        },
-        {
-            "id": 2,
-            "id-categoria": 3,
-            "titulo": "Homem-Aranha: Sem Volta para Casa",
-            "direcao": "Jon Watts",
-            "ano": "2021",
-            "sinopse": "Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um feitiço para reverter o evento não sai como o esperado, o Homem-Aranha e seu companheiro dos Vingadores precisam enfrentar inimigos de todo o multiverso."
-        },
-        {
-            "id": 3,
-            "id-categoria": 3,
-            "titulo": "Homem-Aranha no Aranhaverso",
-            "direcao": "Peter Ramsey, Bob Persichetti, Rodney Rothman",
-            "ano": "2019",
-            "sinopse": "Após ser atingido por uma teia radioativa, Miles Morales, um jovem negro do Brooklyn, se torna o Homem-Aranha, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha."
-        },
-        {
-            "id": 4,
-            "id-categoria": 3,
-            "titulo": "Capitão América 2: O Soldado Invernal",
-            "direcao": "Anthony Russo, Joe Russo",
-            "ano": "2014",
-            "sinopse": "Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, também conhecido como Capitão América, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal."
-        },
-        {
-            "id": 5,
-            "id-categoria": 3,
-            "titulo": "O Homem de Aço",
-            "direcao": "Zack Snyder",
-            "ano": "2013",
-            "sinopse": "Com a iminente destruição de Krypton, seu planeta natal, Jor-El e sua mulher procuram preservar a raça enviando o filho recém-nascido para a Terra. A nave espacial da criança aterrissa na fazenda de Jonathan e Martha Kent, que o batizam de Clark e o criam como seu próprio filho. Apesar das habilidades extraordinárias levarem o Clark adulto a viver à margem da sociedade, ele precisa se tornar um herói para salvar aqueles que ama de uma terrível ameaça."
-        }
-    ],
-    "comedia": [
-        {
-            "id": 1,
-            "id-categoria": 4,
-            "titulo": "Gente Grande",
-            "direcao": "Dennis Dugan",
-            "ano": "2010",
-            "sinopse": "A morte do treinador de basquete da infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade."
-        },
-        {
-            "id": 2,
-            "id-categoria": 4,
-            "titulo": "Gente Grande 2",
-            "direcao": "Dennis Dugan",
-            "ano": "2013",
-            "sinopse": "Lenny Feder e sua família se mudam para sua cidade natal para ficar perto dos amigos, mas acabam tendo que enfrentar alguns fantasmas do passado, como a covardia diante de valentões e o famigerado bullying na escola."
-        },
-        {
-            "id": 3,
-            "id-categoria": 4,
-            "titulo": "Click",
-            "direcao": "Frank Coraci",
-            "ano": "2006",
-            "sinopse": "Um arquiteto casado e com filhos está cada vez mais frustrado por passar a maior parte de seu tempo trabalhando. Um dia, ele encontra um inventor excêntrico que lhe dá um controle remoto universal, com capacidade de acelerar o tempo. No início, ele usa o aparelho para acelerar qualquer momento tedioso, mas se dá conta de que está acelerando o tempo demais e deixando de viver preciosos momentos em família. Desesperado, ele procura o inventor para ajudá-lo a reverter o que fez."
-        },
-        {
-            "id": 4,
-            "id-categoria": 4,
-            "titulo": "Todo Poderoso",
-            "direcao": "Tom Shadyac",
-            "ano": "2003",
-            "sinopse": "Bruce Nolan é um jornalista que tem a vida perfeita. Quando as coisas começam a dar errado, ele questiona Deus e a forma como ele comanda a Terra. O Todo Poderoso dá ao rapaz todos seus poderes, mas Bruce percebe como é difícil ser onipresente."
-        },
-        {
-            "id": 5,
-            "id-categoria": 4,
-            "titulo": "Norbit - Uma Comédia de Peso",
-            "direcao": "Brian Robbins",
-            "ano": "2007",
-            "sinopse": "Desde que foi abandonado em um orfanato, Norbit sempre teve uma vida muito dura. Agora, casado com Rasputia, sua vida é ainda pior. Mas tudo muda quando sua antiga namorada volta à cidade."
+            "titulo": "",
+            "direcao": "",
+            "ano": "",
+            "sinopse": ""
         }
     ]
+
 }
