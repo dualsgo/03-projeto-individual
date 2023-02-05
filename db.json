@@ -2,17 +2,13 @@
     "filmes": [
         {
             "id": 1,
-            "titulo": "No Limite do Amanhã",
-            "direcao": "Doug Liman",
-            "ano": "2014",
-            "sinopse": "Em uma guerra contra alienígenas, William Cage descobre que tem a estranha habilidade de voltar no tempo, ficando preso em um eterno ciclo. Ele treina para usar suas novas habilidades, derrotar os invasores e acabar com a guerra."
+            "title": "No Limite do Amanhã",
+            "body": "Em uma guerra contra alienígenas, William Cage descobre que tem a estranha habilidade de voltar no tempo, ficando preso em um eterno ciclo. Ele treina para usar suas novas habilidades, derrotar os invasores e acabar com a guerra."
         },
         {
             "id": 2,
-            "titulo": "",
-            "direcao": "",
-            "ano": "",
-            "sinopse": ""
+            "title": "",
+            "body": ""
         }
     ]
 
