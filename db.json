@@ -1,5 +1,5 @@
 {
-  "piso1": [
+  "andar1": [
     {
       "marca": "Renault",
       "modelo": "Logan",
@@ -37,7 +37,7 @@
       "id": 4
     }
   ],
-  "piso2": [
+  "andar2": [
     {
       "marca": "Ford",
       "modelo": "Ka Hatch",
@@ -75,7 +75,7 @@
       "id": 4
     }
   ],
-  "piso3": [
+  "andar3": [
     {
       "marca": "Jeep",
       "modelo": "Renegade",
