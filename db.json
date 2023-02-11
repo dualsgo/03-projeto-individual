@@ -1,92 +1,116 @@
 {
-  "sedan": [
+  "piso1": [
     {
-      "id": 1,
       "marca": "Renault",
       "modelo": "Logan",
-      "ano": "2020",
-      "cor": "Azul"
+      "cor": "Azul",
+      "placa": "HJF3288",
+      "dono": "Tiago",
+      "telefone": "21 98765-4321",
+      "id": 1
     },
     {
-      "id": 2,
       "marca": "Chevrolet",
       "modelo": "Onix Plus",
-      "ano": "2023",
-      "cor": "Azul"
+      "cor": "Azul",
+      "placa": "FAS8561",
+      "dono": "Matheus",
+      "telefone": "21 98765-4321",
+      "id": 2
     },
     {
-      "id": 3,
       "marca": "Fiat",
       "modelo": "Cronos",
-      "ano": "2021",
-      "cor": "Vermelho"
+      "cor": "Vermelho",
+      "placa": "AGG3214",
+      "dono": "Julia",
+      "telefone": "21 98765-4321",
+      "id": 3
     },
     {
-      "id": 4,
       "marca": "Volkswagen",
       "modelo": "Voyage",
-      "ano": "2016",
-      "cor": "Preto"
+      "cor": "Preto",
+      "placa": "JGD8825",
+      "dono": "Claudia",
+      "telefone": "21 98765-4321",
+      "id": 4
     }
   ],
-  "hatch": [
+  "piso2": [
     {
-      "id": 1,
       "marca": "Ford",
       "modelo": "Ka Hatch",
-      "ano": "2019",
-      "cor": "Azul"
+      "cor": "Azul",
+      "placa": "RQQ8647",
+      "dono": "Rian",
+      "telefone": "21 98765-4321",
+      "id": 1
     },
     {
-      "id": 2,
       "marca": "Chevrolet",
       "modelo": "Onix Hatch",
-      "ano": "2021",
-      "cor": "Branco"
+      "cor": "Branco",
+      "placa": "TYU6197",
+      "dono": "Rafaela",
+      "telefone": "21 98765-4321",
+      "id": 2
     },
     {
-      "id": 3,
       "marca": "Fiat",
       "modelo": "Argo",
-      "ano": "2022",
-      "cor": "Preto"
+      "cor": "Preto",
+      "placa": "QNB6321",
+      "dono": "Luan",
+      "telefone": "21 98765-4321",
+      "id": 3
     },
     {
-      "id": 4,
       "marca": "Volkswagen",
       "modelo": "Polo",
-      "ano": "2018",
-      "cor": "Vermelho"
+      "cor": "Vermelho",
+      "placa": "FFH8541",
+      "dono": "Rafael",
+      "telefone": "21 98765-4321",
+      "id": 4
     }
   ],
-  "suv": [
+  "piso3": [
     {
-      "id": 1,
       "marca": "Jeep",
       "modelo": "Renegade",
-      "ano": "2021",
-      "cor": "Vermelho"
+      "cor": "Vermelho",
+      "placa": "UIG5674",
+      "dono": "Otavio",
+      "telefone": "21 98765-4321",
+      "id": 1
     },
     {
-      "id": 2,
       "marca": "Ford",
       "modelo": "EcoSport",
-      "ano": "2023",
-      "cor": "Vermelho"
+      "cor": "Vermelho",
+      "placa": "LKK8852",
+      "dono": "Julia",
+      "telefone": "21 98765-4321",
+      "id": 2
     },
     {
-      "id": 3,
       "marca": "Renault",
       "modelo": "Duster",
-      "ano": "2019",
-      "cor": "Vermelho"
+      "cor": "Vermelho",
+      "placa": "LKS2354",
+      "dono": "Antonio",
+      "telefone": "21 98765-4321",
+      "id": 3
     },
     {
-      "id": 4,
       "marca": "Volkswagen",
       "modelo": "T-Cross",
-      "ano": "2020",
-      "cor": "Preto"
+      "cor": "Preto",
+      "placa": "TRD5217",
+      "dono": "Ana",
+      "telefone": "21 98765-4321",
+      "id": 4
     }
   ]
 }
